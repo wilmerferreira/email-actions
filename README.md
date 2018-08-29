@@ -1,4 +1,5 @@
-# email-actions
+Email Actions
+=============
 
 This project is an example of [microdata](https://developers.google.com/gmail/markup/reference/formats/microdata) supports for email providers.
 
